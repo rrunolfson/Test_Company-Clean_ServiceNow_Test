@@ -1,0 +1,17 @@
+{
+  "name": "clean_servicenow_test_integration",
+  "version": "1.0.0",
+  "description": "Test generation with new standard ServiceNow handler (not Fluent)",
+  "main": "install.js",
+  "scripts": {
+    "install": "node install.js",
+    "deploy": "node install.js"
+  },
+  "keywords": [
+    "servicenow",
+    "integration",
+    "Security"
+  ],
+  "author": "Test_Company",
+  "license": "UNLICENSED"
+}
